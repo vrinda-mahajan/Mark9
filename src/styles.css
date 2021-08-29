@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #fee2e2;
+}
+button {
+  cursor: pointer;
+  background: #d1d5db;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid black;
+  margin: 1rem 0.3rem;
+}
+li {
+  list-style: none;
+  padding: 1rem;
+  border: 1px solid #d1d5db;
+  width: 70%;
+  margin: 1rem 0rem;
+  border-radius: 0.5rem;
+}
