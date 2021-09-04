@@ -5,13 +5,16 @@
 body {
   background-color: #fee2e2;
 }
-button {
+.btn {
   cursor: pointer;
   background: #d1d5db;
   border-radius: 0.5rem;
   padding: 0.5rem 1rem;
   border: 1px solid black;
   margin: 1rem 0.3rem;
+}
+.btn:active {
+  box-shadow: 7px 6px 28px 1px rgba(0, 0, 0, 0.25);
 }
 li {
   list-style: none;
